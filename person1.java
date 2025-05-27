@@ -51,8 +51,8 @@ class Employee extends Person {
 public class person1 {
     public static void main (String[] args) {
         // Hardcoded input using constructors
-        String name = "vaishnavi";
-        String dob = "2005-05-04"; 
+        String name = "sukanya";
+        String dob = "2005-12-05"; 
         int empId = 111;
         double salary = 55000.75;
         Employee emp = new Employee (name, empId, salary);
